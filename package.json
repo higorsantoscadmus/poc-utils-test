@@ -4,6 +4,7 @@
   "description": "A lib to help in some projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
+  "files": ["dist"],
   "scripts": {
     "build": "tsc"
   },

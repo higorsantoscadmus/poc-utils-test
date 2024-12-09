@@ -4,7 +4,9 @@
   "description": "A lib to help in some projects",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "files": ["dist"],
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "build": "tsc"
   },
@@ -16,6 +18,7 @@
   "author": "Higor C. Santos",
   "license": "MIT",
   "dependencies": {
+    "@nestjs/common": "^10.4.15",
     "typescript": "^5.7.2"
   }
 }

@@ -18,10 +18,10 @@
   "author": "Higor C. Santos",
   "license": "MIT",
   "dependencies": {
-    "@nestjs/common": "^10.4.15",
-    "typescript": "^5.7.2"
+    "@nestjs/common": "^10.4.15"
   },
   "devDependencies": {
-    "@types/node": "^22.10.1"
+    "@types/node": "^22.10.1",
+    "typescript": "^5.7.2"
   }
 }
